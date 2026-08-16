@@ -35,7 +35,6 @@ I enjoy turning engineering concepts into practical solutions through **hands-on
 - 🌐 IoT
 - 📐 Circuit Design & Simulation
 
----
 
 ## 📂 Featured Projects
 
@@ -48,13 +47,6 @@ An analog-based system designed to process and indicate light intensity using fi
 ### 🚗 Automatic Car Parking System
 An automatic parking system developed as part of an engineering project.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hansanif0432&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansanif0432&layout=compact&theme=dark)
 
 ---
 
