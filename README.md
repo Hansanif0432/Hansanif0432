@@ -48,13 +48,5 @@ An analog-based system designed to process and indicate light intensity using fi
 An automatic parking system developed as part of an engineering project.
 
 
----
-
-## 📫 Connect With Me
-
-- 📧 Email: neediyafernando@gmail.com
-- 💼 LinkedIn: [My LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/neediya-hansani-409076360/))
-
----
 
 ⭐ Feel free to explore my repositories and projects!
