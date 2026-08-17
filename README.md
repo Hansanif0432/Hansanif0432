@@ -52,8 +52,8 @@ An automatic parking system developed as part of an engineering project.
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+- 📧 Email: neediyafernando@gmail.com
+- 💼 LinkedIn: [My LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/neediya-hansani-409076360/))
 
 ---
 
